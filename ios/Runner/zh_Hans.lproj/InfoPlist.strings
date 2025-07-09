@@ -1,0 +1,3 @@
+NSLocationWhenInUseUsageDescription = "用于距离计算";
+NSMicrophoneUsageDescription = "语音协助";
+PermissionGroupNotification = "对于推送通知";
