@@ -1,7 +1,24 @@
-# Speedotrack GPS Pro
+# 🚀 Speedotrack App
 
-A new Flutter project.
+A FlutterFlow-based mobile application for GPS tracking, playback, and map-based monitoring.
 
-## Getting Started
+## 📱 Features
+- Real-time device tracking
+- Playback with animated map
+- Geofence visualization
+- Map controls: zoom, center, traffic toggle
+- Clean UI using FlutterFlow
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+## 🛠️ Tech Stack
+- FlutterFlow
+- Flutter Map
+- Git & GitHub
+
+## 🧠 Developed by
+**Ghazala Yaseen**  
+💻 FlutterFlow | UI/UX | Tracking Systems  
+📧 gazalapraveen1111@gmail.com
+
+---
+
+Made with 💙 using FlutterFlow
